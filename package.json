@@ -9,7 +9,7 @@
     "knip": "5.56.0",
     "typescript": "5.8.3"
   },
-  "name": "knip-test",
+  "name": "knip-next-jest-monorepo-bug",
   "packageManager": "npm@9.2.0",
   "workspaces": [
     "apps/*"
