@@ -1,0 +1,17 @@
+
+{
+  "private": true,
+  "scripts": {
+    "knip": "knip"
+  },
+  "devDependencies": {
+    "@types/node": "20.17.16",
+    "knip": "5.56.0",
+    "typescript": "5.8.3"
+  },
+  "name": "knip-test",
+  "packageManager": "npm@9.2.0",
+  "workspaces": [
+    "apps/*"
+  ]
+}
